@@ -22,6 +22,7 @@ Este é um programa em Java que consulta automaticamente informações de endere
 
 ## Tela do sistema:
 
-![CEP](https://github.com/HenriqueBent0/Busca-Automatica-de-CEP-Java/assets/166830118/cc2fa24c-07a8-4881-a03f-6a3b897e8607)
+![CEP](https://github.com/HenriqueBent0/Busca-Automatica-de-CEP-Java/assets/166830118/00e453e3-2395-490c-a0f3-c9cf746fd99e)
+
 
 
