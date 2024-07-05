@@ -16,7 +16,7 @@ Este é um programa em Java que consulta automaticamente informações de endere
 
 ## Como Usar
 
-1. Compile e execute o arquivo `FRMMenu.java`.
+1. Compile no Eclipse e execute o arquivo `FRMMenu.java`.
 2. Insira um CEP válido no campo correspondente e clique em "Buscar".
 3. Os campos de endereço, bairro, cidade e UF serão preenchidos automaticamente se o CEP for encontrado.
 
